@@ -1,6 +1,6 @@
 # 👋 Hello
 
-I'm a software developer with the focus on UX and Web 3.0. I love learning all about front-end and back-end.
+I'm a software developer. I love learning all about front-end and back-end.
 
 - ⚙️ My fav tools I use: `react.js` `gatsby.js` `node.js` `.NET Core` 
 - 📝 Writing and sharing my experience on [my personal blog](https://www.adamhemzal.com/)
