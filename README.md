@@ -2,7 +2,7 @@
 
 I'm a software developer. I love learning all about front-end and back-end.
 
-- ⚙️ My fav tools I use: `next.js` `react.js` `gatsby.js` `node.js` `.NET Core` 
+- ⚙️ My fav tools I use: `next.js` `astro.js` `svelte.js` `react.js` `gatsby.js` `node.js` `.NET Core` 
 - 📝 Writing and sharing my experience on [my personal blog](https://www.adamhemzal.com/)
 
 <!--
